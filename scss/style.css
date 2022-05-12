@@ -1,0 +1,47 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.selectinput {
+  display: none;
+}
+
+.drop {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 35%;
+}
+
+.drop .dropZona {
+  border: 2px dashed black;
+  width: 300px;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.drop .click {
+  border: 2px solid black;
+  width: 100px;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
